@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1517147367 source:c:\users\malek\desktop\projekat 3 [spia]\projekat3\main.cpp
+	<iostream>
+	"project.h"
+	<string>
+
+1516907057 c:\users\malek\desktop\projekat 3 [spia]\projekat3\fileparser.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+
+1517000712 c:\users\malek\desktop\projekat 3 [spia]\projekat3\fileparser.h
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+
+1517004242 c:\users\malek\desktop\projekat 3 [spia]\projekat3\functions.h
+	<utility>
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1517147810 c:\users\malek\desktop\projekat 3 [spia]\projekat3\project.h
+	<iostream>
+	<string>
+	<fstream>
+	<utility>
+	<cmath>
+	<iomanip>
+	<queue>
+	<vector>
+	<list>
+
